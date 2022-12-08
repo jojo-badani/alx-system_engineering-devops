@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 tr -d cC`
+=======
+tr -d cC
+>>>>>>> c3adbf147ece4506f9bb9b095dff4cfa88f8d69b
